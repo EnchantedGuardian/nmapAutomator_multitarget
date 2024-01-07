@@ -1,4 +1,4 @@
-# nmapAutomator
+# nmapAutomator - MultiTarget
 
 A script you can run in the background!
   
